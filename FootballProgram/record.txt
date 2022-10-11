@@ -1,0 +1,73 @@
+3
+Subrosa HS;Lions;Portland;30
+2003;14;Marshfield;38
+2003;28;Willamette;50
+2003;48;Springfield;0
+2003;36;Century;15
+2003;41;Lebanon;19
+2003;14;Churchill;10
+2003;14;Thurston;7
+2003;0;Sheldon;37
+2003;23;North Eugene;16
+2003;0;Sprague;34
+2004;34;Milwaukie;0
+2004;34;Marshfield;7
+2004;39;Springfield;7
+2004;47;Churchill;7
+2004;28;Sheldon;34
+2004;41;North Eugene;13
+2004;28;Thurston;0
+2004;47;Willamette;7
+2004;41;Lebanon;14
+2004;20;Westview;38
+2010;19;Sprague;25
+2010;0;West Salem;41
+2010;7;Sheldon;51
+2010;0;North Medford;24
+2010;34;Crater;28
+2010;6;Roseburg;49
+2010;0;Thurston;49
+2010;6;South Medford;52
+2010;12;Grants Pass;26
+2010;7;Barlow;35
+Mediocre Heights;Mavericks;Jade Harbor;18
+1948;0;Elmira;7
+1948;7;Pleasant Hill;12
+1948;0;Oakridge;37
+1949;0;Elmira;20
+1949;12;Mapleton;6
+1949;25;Creswell;7
+1949;6;Monroe;7
+1949;7;Oakridge;13
+1949;18;Pleasant Hill;18
+1949;19;Alsea;0
+1949;0;Bandon;18
+1961;0;Coburg;14
+1961;6;Creswell;13
+1961;20;Crow;44
+1961;0;Elkton;6
+1961;0;Monroe;41
+1961;0;Yoncalla;40
+1961;7;Harrisburg;13
+Sunnyview HS;Sailors;Sunnyview;21
+1999;23;Siuslaw;20
+1999;6;Central;22
+1999;22;Tillamook;12
+1999;14;Taft;21
+1999;31;Yamhill-Carlton;26
+1999;47;Toledo;14
+1999;45;Waldport;14
+1999;34;The Dallas;7
+1999;40;Newport;14
+1999;0;Siuslaw;8
+2000;36;Siuslaw;7
+2000;28;Central;20
+2000;28;Newport;14
+2000;14;Tillamook;0
+2000;41;Taft;6
+2000;42;Waldport;10
+2000;12;Toledo;13
+2000;14;Yamhill-Carlton;20
+2000;40;Elmira;12
+2000;35;Mazama;21
+2000;13;Pleasant Hill;34
